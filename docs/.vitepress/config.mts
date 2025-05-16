@@ -24,6 +24,13 @@ export default defineConfig({
         items: [
           { text: '200. Number of Islands', link: '/grid/200' }
         ]
+      },
+      {
+        text: 'String && Array && Others',
+        items: 
+        [
+          { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
+        ]
       }
     ],
 
