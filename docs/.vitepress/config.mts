@@ -29,6 +29,7 @@ export default defineConfig({
         text: 'String && Array && Others',
         items: 
         [
+          { text: 'Array', link: 'others/array/index'},
           { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
         ]
       }
