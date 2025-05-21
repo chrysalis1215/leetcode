@@ -23,6 +23,15 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Sliding Window',
+        items: [
+          { text: "3.Longest Substring Without Repeating Characters", link: '/auto/3'},
+          // { text: "567. Permutation in String", link: '/auto/567'},
+          // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
+          // { text: "1534. Count Good Triplets", link: '/auto/1534'},
+        ]
+      },
+      {
         text: 'Binary Search',
         items: [
           { text: '852. Peak Index in a Mountain Array', link: '/binary-search/852' },
@@ -46,6 +55,7 @@ export default defineConfig({
         items: [
           { text: "Array", link: 'others/array/index'},
           { text: "1.Two Sum", link: '/auto/1'},
+          { text: "867.Transpose Matrix", link: '/auto/867'},
           { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
         ]
       }
