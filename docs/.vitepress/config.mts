@@ -34,7 +34,13 @@ export default defineConfig({
           { text: '200. Number of Islands', link: '/grid/200' }
         ]
       },
-
+      {
+        text: 'Bitwise',
+        items: [
+          { text: "709.To Lower Case", link: '/auto/709'},
+          { text: "1470.Shuffle the Array", link: '/auto/1470'},
+        ]
+      },
       {
         text: 'String && Array && Others',
         items: [
