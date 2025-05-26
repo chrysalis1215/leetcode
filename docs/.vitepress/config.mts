@@ -26,6 +26,7 @@ export default defineConfig({
         text: 'Sliding Window',
         items: [
           { text: "3.Longest Substring Without Repeating Characters", link: '/auto/3'},
+          { text: "76. Minimum Window Substring", link: '/auto/76'},
           { text: "567. Permutation in String", link: '/auto/567'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
