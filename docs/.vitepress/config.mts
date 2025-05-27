@@ -34,6 +34,17 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Two Pointer',
+        items: [
+          { text: "167.Two Sum II - Input Array Is Sorted", link: '/auto/167'},
+          // { text: "76. Minimum Window Substring", link: '/auto/76'},
+          // { text: "438. Find All Anagrams in a String", link: '/auto/438'},
+          // { text: "567. Permutation in String", link: '/auto/567'},
+          // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
+          // { text: "1534. Count Good Triplets", link: '/auto/1534'},
+        ]
+      },
+      {
         text: 'Binary Search',
         items: [
           { text: '852. Peak Index in a Mountain Array', link: '/binary-search/852' },
