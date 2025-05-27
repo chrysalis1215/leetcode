@@ -48,6 +48,7 @@ export default defineConfig({
       {
         text: 'Bitwise',
         items: [
+          { text: "231.Power of Two", link: '/auto/231'},
           { text: "709.To Lower Case", link: '/auto/709'},
           { text: "1470.Shuffle the Array", link: '/auto/1470'},
         ]
