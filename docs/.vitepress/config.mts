@@ -38,6 +38,7 @@ export default defineConfig({
         items: [
           { text: "15.Three Sum", link: '/auto/15'},
           { text: "16.3Sum Closest", link: '/auto/16'},
+          { text: "42. rapping Rain Water", link: '/auto/42'},
           { text: "167.Two Sum II - Input Array Is Sorted", link: '/auto/167'},
           // { text: "76. Minimum Window Substring", link: '/auto/76'},
           // { text: "438. Find All Anagrams in a String", link: '/auto/438'},
