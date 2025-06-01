@@ -52,7 +52,9 @@ export default defineConfig({
       {
         text: 'Binary Search',
         items: [
+          { text: '35. First Bad Version', link: '/auto/35' },
           { text: '278. First Bad Version', link: '/auto/278' },
+          { text: '704. Binary Search', link: '/auto/704' },
           { text: '852. Peak Index in a Mountain Array', link: '/binary-search/852' },
           { text: '875. Koko Eating Bananas', link: '/auto/875' },
         ]
