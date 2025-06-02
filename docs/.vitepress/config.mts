@@ -52,7 +52,9 @@ export default defineConfig({
       {
         text: 'Binary Search',
         items: [
-          { text: '35. First Bad Version', link: '/auto/35' },
+          { text: '33. Search in Rotated Sorted Array', link: '/auto/33' },
+          { text: '34. Find First and Last Position of Element in Sorted Array', link: '/auto/34' },
+          { text: '35. Search Insert Position', link: '/auto/35' },
           { text: '278. First Bad Version', link: '/auto/278' },
           { text: '704. Binary Search', link: '/auto/704' },
           { text: '852. Peak Index in a Mountain Array', link: '/binary-search/852' },
