@@ -77,6 +77,16 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Hashing',
+        items: [
+          { text: "128.Longest Consecutive Sequence", link: 'auto/128'},
+          // { text: "1.Two Sum", link: '/auto/1'},
+          // { text: "283. Move Zeroes", link: '/auto/283'},
+          // { text: "867.Transpose Matrix", link: '/auto/867'},
+          // { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
+        ]
+      },
+      {
         text: 'String && Array && Others',
         items: [
           { text: "Array", link: 'others/array/index'},
