@@ -79,6 +79,7 @@ export default defineConfig({
       {
         text: 'Hashing',
         items: [
+          { text: "30.Substring with Concatenation of All Words", link: 'auto/30'},
           { text: "49.Group Anagrams", link: 'auto/49'},
           { text: "128.Longest Consecutive Sequence", link: 'auto/128'},
           { text: "347.Top K Frequent Elements", link: 'auto/347'},
