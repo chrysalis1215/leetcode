@@ -85,11 +85,15 @@ export default defineConfig({
           { text: "347.Top K Frequent Elements", link: 'auto/347'},
           { text: "387.First Unique Character in a String", link: 'auto/387'},
           { text: "451.Sort Characters By Frequency", link: 'auto/451'},
-
-          // { text: "1.Two Sum", link: '/auto/1'},
-          // { text: "283. Move Zeroes", link: '/auto/283'},
-          // { text: "867.Transpose Matrix", link: '/auto/867'},
-          // { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
+          // { text: "895.Maximum Frequency Stack", link: 'auto/895'},
+        ]
+      },
+      {
+        text: 'Greedy Algorithm',
+        items: [
+          { text: "122.Best Time to Buy and Sell Stock II", link: 'auto/122'},
+          { text: "455.Assign Cookies", link: 'auto/455'},
+          { text: "860.Lemonade Change", link: 'auto/860'},
         ]
       },
       {
