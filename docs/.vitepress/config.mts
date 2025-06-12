@@ -93,6 +93,8 @@ export default defineConfig({
         items: [
           { text: "122.Best Time to Buy and Sell Stock II", link: 'auto/122'},
           { text: "134.Gas Station", link: 'auto/134'},
+          { text: "*435.Non-overlapping Intervals", link: 'auto/435'},
+
           { text: "455.Assign Cookies", link: 'auto/455'},
           { text: "860.Lemonade Change", link: 'auto/860'},
         ]
