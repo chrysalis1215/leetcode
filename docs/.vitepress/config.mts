@@ -86,7 +86,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Hashing',
+        text: 'Hash Map',
         items: [
           { text: "30.Substring with Concatenation of All Words", link: 'auto/30'},
           { text: "49.Group Anagrams", link: 'auto/49'},
@@ -94,7 +94,7 @@ export default defineConfig({
           { text: "347.Top K Frequent Elements", link: 'auto/347'},
           { text: "387.First Unique Character in a String", link: 'auto/387'},
           { text: "451.Sort Characters By Frequency", link: 'auto/451'},
-          // { text: "895.Maximum Frequency Stack", link: 'auto/895'},
+          { text: "895.Maximum Frequency Stack", link: 'auto/895'},
         ]
       },
       {
