@@ -23,6 +23,14 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Classical Interview Type',
+        items: [
+          { text: "146.LRU Cache", link: 'auto/146'},
+          // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
+          // { text: "1534. Count Good Triplets", link: '/auto/1534'},
+        ]
+      },
+      {
         text: 'Prefix Sum',
         items: [
           { text: "325. Maximum Size Subarray Sum Equals k", link: '/others/array/325'},
