@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Linked List',
         items: [
+          { text: "21.Merge Two Sorted Lists", link: 'auto/21'},
           { text: "206.Reverse Linked List", link: 'auto/206'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
