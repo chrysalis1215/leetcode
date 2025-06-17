@@ -35,6 +35,7 @@ export default defineConfig({
         items: [
           { text: "19.Remove Nth Node From End of List", link: 'auto/19'},
           { text: "21.Merge Two Sorted Lists", link: 'auto/21'},
+          { text: "23.Merge k Sorted Lists", link: 'auto/23'},
           { text: "92.Reverse Linked List II", link: 'auto/92'},
           { text: "206.Reverse Linked List", link: 'auto/206'},
           { text: "707.Design Linked List", link: 'auto/707'},
