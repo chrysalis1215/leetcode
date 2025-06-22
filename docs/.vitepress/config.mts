@@ -136,6 +136,7 @@ export default defineConfig({
           { text: "Array", link: 'others/array/index'},
           { text: "1.Two Sum", link: '/auto/1'},
           { text: "283. Move Zeroes", link: '/auto/283'},
+          { text: "509.Fibonacci Number", link: 'auto/509'},
           { text: "867.Transpose Matrix", link: '/auto/867'},
           { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
         ]
