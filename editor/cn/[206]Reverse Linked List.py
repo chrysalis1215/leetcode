@@ -6,7 +6,15 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        head
+        node = head
+
+        if node.
+        while node:
+            self.resverse(node.next)node
+
+    def resverse(self, pre:[ListNode], node:[ListNode]):
+        pre.next = node
+
 
         
 # leetcode submit region end(Prohibit modification and deletion)
