@@ -29,6 +29,8 @@ export default defineConfig({
           { text: "40.Combination Sum II", link: 'auto/40'},
           { text: "46.Permutations", link: 'auto/46'},
           { text: "47.Permutations II", link: 'auto/47'},
+          { text: "131.Palindrome Partitioning", link: 'auto/131'},
+
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
         ]
