@@ -29,6 +29,7 @@ export default defineConfig({
           { text: "40.Combination Sum II", link: 'auto/40'},
           { text: "46.Permutations", link: 'auto/46'},
           { text: "47.Permutations II", link: 'auto/47'},
+          { text: "51.N-Queens", link: 'auto/51'},
           { text: "78.Subsets", link: 'auto/78'},
           { text: "90.Subsets II", link: 'auto/90'},
           { text: "93.Restore IP Addresses", link: 'auto/93'},
