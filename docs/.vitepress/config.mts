@@ -25,6 +25,7 @@ export default defineConfig({
       {
         text: 'Backtracking',
         items: [
+          { text: "37.Sudoku Solver", link: 'auto/37'},
           { text: "39.Combination Sum", link: 'auto/39'},
           { text: "40.Combination Sum II", link: 'auto/40'},
           { text: "46.Permutations", link: 'auto/46'},
