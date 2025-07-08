@@ -49,6 +49,14 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Monotonic Stack',
+        items: [
+          { text: "739.Daily Temperatures", link: 'auto/739'},
+          // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
+          // { text: "1534. Count Good Triplets", link: '/auto/1534'},
+        ]
+      },
+      {
         text: 'Linked List',
         items: [
           { text: "19.Remove Nth Node From End of List", link: 'auto/19'},
