@@ -51,6 +51,7 @@ export default defineConfig({
       {
         text: 'Monotonic Stack',
         items: [
+          { text: "84.Largest Rectangle in Histogram", link: 'auto/84'},
           { text: "739.Daily Temperatures", link: 'auto/739'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
