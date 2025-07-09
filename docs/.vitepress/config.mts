@@ -52,6 +52,8 @@ export default defineConfig({
         text: 'Monotonic Stack',
         items: [
           { text: "84.Largest Rectangle in Histogram", link: 'auto/84'},
+          { text: "85.Maximal Rectangle", link: 'auto/85'},
+
           { text: "739.Daily Temperatures", link: 'auto/739'},
           { text: "901.Online Stock Span", link: 'auto/901'},
 
