@@ -53,9 +53,17 @@ export default defineConfig({
         items: [
           { text: "84.Largest Rectangle in Histogram", link: 'auto/84'},
           { text: "85.Maximal Rectangle", link: 'auto/85'},
-
           { text: "739.Daily Temperatures", link: 'auto/739'},
           { text: "901.Online Stock Span", link: 'auto/901'},
+
+          // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
+          // { text: "1534. Count Good Triplets", link: '/auto/1534'},
+        ]
+      },
+      {
+        text: 'Tree BFS DFS',
+        items: [
+          { text: "102.Binary Tree Level Order Traversal", link: 'auto/102'},
 
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
