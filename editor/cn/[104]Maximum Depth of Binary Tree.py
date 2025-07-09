@@ -10,15 +10,15 @@ class TreeNode:
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
 
-        def dfs(root, height) -> TreeNode:
+        def dfs(root, height) -> int:
             if not root:
-                return
-
-            if root.left:
-                dfs(root.left, height + 1)
-            if root.right:
-                dfs(root.right, height + 1)
-
-            if not root.left and not root.right:
                 return height
+
+            return max(dfs(root.left, height + 1),  dfs(root.right, height + 1))
+
+        return dfs(root, 0)
+
+
+
+
 # leetcode submit region end(Prohibit modification and deletion)

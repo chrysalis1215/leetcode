@@ -64,6 +64,7 @@ export default defineConfig({
         text: 'Tree BFS DFS',
         items: [
           { text: "102.Binary Tree Level Order Traversal", link: 'auto/102'},
+          { text: "104.Maximum Depth of Binary Tree", link: 'auto/104'},
 
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
