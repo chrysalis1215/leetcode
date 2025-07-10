@@ -63,6 +63,7 @@ export default defineConfig({
       {
         text: 'Tree BFS DFS',
         items: [
+          { text: "101.Symmetric Tree", link: 'auto/101'},
           { text: "102.Binary Tree Level Order Traversal", link: 'auto/102'},
           { text: "104.Maximum Depth of Binary Tree", link: 'auto/104'},
 
