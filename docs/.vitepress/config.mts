@@ -68,6 +68,8 @@ export default defineConfig({
           { text: "104.Maximum Depth of Binary Tree", link: 'auto/104'},
           { text: "105.Construct Binary Tree from Preorder and Inorder Traversal", link: 'auto/105'},
           { text: "112.Path Sum", link: 'auto/112'},
+          { text: "226.Invert Binary Tree", link: 'auto/226'},
+
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
         ]
