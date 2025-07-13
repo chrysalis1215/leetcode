@@ -1,3 +1,4 @@
+from collections import defaultdict
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for a binary tree node.
 # class TreeNode:
@@ -7,18 +8,29 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        if not root:
-            return 0
-        self.res = 0
+        prefix = defaultdict(int)
+        prefix[0] = 1
 
-        def dfs(root, target) :
+        def dfs(root: Optional[TreeNode], count):
+
             if not root:
-                return
+                return 0
 
-            if root.val == target:
-                self.res += 1
+            count += root.val
 
-            dfs(root.left, )
+            res = prefix[count - targetSum]
+
+            prefix[count] += 1
+
+            res += dfs(root.left, count)
+            res += dfs(root.right, count)
+
+            prefix[count] -= 1
+
+            return res
+
+        return dfs(root, 0)
+
 
 
 

@@ -70,6 +70,7 @@ export default defineConfig({
           { text: "112.Path Sum", link: 'auto/112'},
           { text: "113.Path Sum II", link: 'auto/113'},
           { text: "226.Invert Binary Tree", link: 'auto/226'},
+          { text: "437.Path Sum III", link: 'auto/437'},
           { text: "543.Diameter of Binary Tree", link: 'auto/543'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
