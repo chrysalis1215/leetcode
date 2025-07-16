@@ -71,6 +71,7 @@ export default defineConfig({
           { text: "113.Path Sum II", link: 'auto/113'},
           { text: "124.Binary Tree Maximum Path Sum", link: 'auto/124'},
           { text: "226.Invert Binary Tree", link: 'auto/226'},
+          { text: "236.Lowest Common Ancestor of a Binary Tree", link: 'auto/236'},
           { text: "437.Path Sum III", link: 'auto/437'},
           { text: "543.Diameter of Binary Tree", link: 'auto/543'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
