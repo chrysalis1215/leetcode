@@ -76,6 +76,7 @@ export default defineConfig({
           { text: "297.Serialize and Deserialize Binary Tree", link: 'auto/297'},
           { text: "437.Path Sum III", link: 'auto/437'},
           { text: "543.Diameter of Binary Tree", link: 'auto/543'},
+          { text: "700.Search in a Binary Search Tree", link: 'auto/700'},
           { text: "863.All Nodes Distance K in Binary Tree", link: 'auto/863'},
 
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
