@@ -76,6 +76,7 @@ export default defineConfig({
           { text: "236.Lowest Common Ancestor of a Binary Tree", link: 'auto/236'},
           { text: "297.Serialize and Deserialize Binary Tree", link: 'auto/297'},
           { text: "437.Path Sum III", link: 'auto/437'},
+          { text: "501.Find Mode in Binary Search Tree", link: 'auto/501'},
           { text: "530.Minimum Absolute Difference in BST", link: 'auto/530'},
 
           { text: "543.Diameter of Binary Tree", link: 'auto/543'},
