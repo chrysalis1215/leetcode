@@ -74,6 +74,7 @@ export default defineConfig({
           { text: "124.Binary Tree Maximum Path Sum", link: 'auto/124'},
           { text: "222.Count Complete Tree Nodes", link: 'auto/222'},
           { text: "226.Invert Binary Tree", link: 'auto/226'},
+          { text: "235.Lowest Common Ancestor of a Binary Search Tree", link: 'auto/235'},
           { text: "236.Lowest Common Ancestor of a Binary Tree", link: 'auto/236'},
           { text: "297.Serialize and Deserialize Binary Tree", link: 'auto/297'},
           { text: "437.Path Sum III", link: 'auto/437'},
