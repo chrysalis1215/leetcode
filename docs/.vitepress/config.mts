@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: 'Dynamic Programming',
         items: [
+          { text: "62.Unique Paths", link: 'auto/62'},
           { text: "70.Climbing Stairs", link: 'auto/70'},
           { text: "198.House Robber", link: 'auto/198'},
           { text: "213.House Robber II", link: 'auto/213'},
