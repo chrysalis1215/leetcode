@@ -19,6 +19,7 @@ export default defineConfig({
           { text: "70.Climbing Stairs", link: 'auto/70'},
           { text: "198.House Robber", link: 'auto/198'},
           { text: "213.House Robber II", link: 'auto/213'},
+          { text: "740.Delete and Earn", link: 'auto/740'},
           // { text: "1422. Maximum Score After Splitting a String", link: '/auto/1422'},
           // { text: "1534. Count Good Triplets", link: '/auto/1534'},
         ]

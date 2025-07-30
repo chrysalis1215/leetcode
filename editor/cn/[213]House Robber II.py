@@ -3,34 +3,27 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
 
         n = len(nums)
-        if n == 0:
-            return 0
-        elif n == 1:
+        if n == 1:
             return nums[0]
+        elif n == 2:
+            return max(nums[0], nums[1])
 
-        def find_rob_linear(nums: List[int]) -> int:
-            n = len(nums)
-            if n == 0:
-                return 0
-            elif n == 1:
-                return nums[0]
+        def findMax(nums: List[int]) -> int:
+            size = len(nums)
 
+            pre2, pre1 = nums[0], nums[0]
 
-            pre2 = nums[0]
-
-            pre1 = max(pre2, nums[1])
+            if size > 1: pre1 = max(pre2, nums[1])
 
             cur = pre1
 
-            for i in range(2, n):
-                cur = max(pre1, nums[i] + pre2 )
+            for i in range(2, size):
+                cur = max(pre1, pre2 + nums[i])
                 pre2 = pre1
                 pre1 = cur
 
             return cur
-
-        return max(find_rob_linear(nums[:-1]), find_rob_linear(nums[1:]))
-
+        return max(findMax(nums[1:]), findMax(nums[:-1]))
 
 
 
