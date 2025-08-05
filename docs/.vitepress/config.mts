@@ -201,7 +201,9 @@ export default defineConfig({
           { text: "283. Move Zeroes", link: '/auto/283'},
           { text: "509.Fibonacci Number", link: 'auto/509'},
           { text: "867.Transpose Matrix", link: '/auto/867'},
-          { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' }
+          { text: '2586.count-the-number-of-vowel-strings-in-range', link: '/others/2586' },
+          { text: "3477.Fruits Into Baskets II", link: 'auto/3477'},
+
         ]
       }
     ],
