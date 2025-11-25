@@ -10,7 +10,4 @@ class Solution:
                     break
 
         return len(usedSet)
-
-
-        
 # leetcode submit region end(Prohibit modification and deletion)
